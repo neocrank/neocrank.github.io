@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://neocrank.github.io/al-folio/sitemap.xml
+Sitemap: https://neocrank.github.io/sitemap.xml
