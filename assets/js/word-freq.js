@@ -1,7 +1,5 @@
 let text = "";
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
 const stopwords = [
     "the", "and", "to", "in", "of", "a", "for", "with",
     "on", "this", "that", "it", "which", "an", "from",
